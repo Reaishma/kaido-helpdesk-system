@@ -377,7 +377,7 @@ Or simply **download the HTML file** and double-click it — it works offline wi
 
 ## 📄 License
 
-This project is released under the **MIT License** — free to use, modify, and distribute with attribution.
+This project is released under the **MIT License**
 
 ---
 
