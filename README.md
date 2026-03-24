@@ -16,8 +16,8 @@
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Open%20in%20Browser-FF6B3D?style=for-the-badge)](https://reaishma.github.io/kaido-helpdesk-system/)
-[![Platform 1](https://img.shields.io/badge/Platform%201-Salesforce%20Service%20Cloud-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)]
-[![Platform 2](https://img.shields.io/badge/Platform%202-BMC%20Helix%20ITSM-CC0000?style=for-the-badge&logo=bmcsoftware&logoColor=white)]
+[![Platform 1](https://img.shields.io/badge/Platform%201-Salesforce%20Service%20Cloud-0176D3?style=for-the-badge&logo=salesforce&logoColor=white)
+[![Platform 2](https://img.shields.io/badge/Platform%202-BMC%20Helix%20ITSM-CC0000?style=for-the-badge&logo=bmcsoftware&logoColor=white)
 
 <br/>
 
