@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-# 🖥️ ITSM Platform Simulation
+# 🖥️ Kaido Helpdesk System 
 
 ### A pixel-perfect, fully interactive dual-platform simulation of  
 ### **Salesforce Service Cloud** and **BMC Helix ITSM** — in a single HTML file.
